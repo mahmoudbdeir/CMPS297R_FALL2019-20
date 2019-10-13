@@ -1,0 +1,14 @@
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.exe
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.csprojAssemblyReference.cache
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.AssemblyInfoInputs.cache
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.AssemblyInfo.cs
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.deps.json
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.runtimeconfig.json
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.runtimeconfig.dev.json
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.dll
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\AzureQueueDemo.pdb
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.dll
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.pdb
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\bin\Debug\netcoreapp3.0\Microsoft.WindowsAzure.Storage.dll
+C:\Users\mbdeir1\source\repos\AzureQueueDemo\AzureQueueDemo\obj\Debug\netcoreapp3.0\AzureQueueDemo.csproj.CopyComplete
