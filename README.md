@@ -1,4 +1,4 @@
-# CMPS297R_FALL2019-20
+# CMPS 297R FALL 2019-2020
 This is a sample program on how to code with Microsoft Azure Queues. 
 
 ## To run the program:
